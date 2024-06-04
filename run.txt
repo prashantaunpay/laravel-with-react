@@ -1,2 +1,6 @@
+npm install
+npm update
+composer update
+cp .env.example .env
 npm run dev
 php artisan serve
